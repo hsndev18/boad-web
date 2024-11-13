@@ -1,5 +1,5 @@
 
-# SANA Project
+# Boad Project
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/hsndev18/boad-web)
 ![GitHub contributors](https://img.shields.io/github/contributors/hsndev18/boad-web)
