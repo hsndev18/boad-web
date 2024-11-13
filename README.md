@@ -84,7 +84,6 @@ pip install -r requirements.txt
    ```
 9. Now you can access the web app from your browser.
 10. Enjoy!
-11. 
 ## Usage
 
 Once the server is running, you can access the API endpoints from your Laravel application to interact with the allam and preprocess the data before sending it to the openai.
