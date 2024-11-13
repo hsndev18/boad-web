@@ -96,4 +96,4 @@ Once the server is running, you can access the API endpoints from your Laravel a
 
 ## Acknowledgements
 
-Thanks to all contributors and ALLAM organizers for the opportunity to develop this innovative solution.
+Thanks to all contributors and Roshen organizers for the opportunity to develop this innovative solution.
