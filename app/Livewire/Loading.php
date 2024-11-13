@@ -19,10 +19,9 @@ class Loading extends Component
     public function render()
     {
 
-        $problem = Problem::find($this->problemId);
+        $problem = Problem::find($this->problem->id);
         if ($problem->disease) {
-
-           dd($problem->disease);
+           $this->redirect(route('show.result', $problem));
         }
         return view('livewire.loading', compact('problem'));
     }

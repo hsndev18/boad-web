@@ -32,7 +32,7 @@ class APIService
             ];
     
             // Send a POST request with JSON payload containing structured parameters
-            $response = $client->post("http://localhost:5000/analyze", [
+            $response = $client->post(env('PYTHON_API_URL'), [
                 'json' => $data,
                 'headers' => [
                     'Accept' => 'application/json'

@@ -24,4 +24,9 @@ class LandingController extends Controller
     }
 
 
+    public function result(Problem $problem)
+    {
+        return view('visitors.result', compact('problem'));
+    }
+
 }

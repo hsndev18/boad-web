@@ -13,4 +13,4 @@ Auth::routes();
 
 
 Route::get('start', [LandingController::class, 'startPage'])->name('start-page');
-
+Route::get('show/{problem}/result', [LandingController::class, 'result'])->name('show.result');
