@@ -90,8 +90,11 @@ Once the server is running, you can access the API endpoints from your Laravel a
 
 ## Team
 
+- **Abulrahman Alhasan** - Team Leader
 - **Hasan Alshikh** - Senior Software Engineer, AI Engineer
 - **Ibrahim Alnabhan** - Data Analyst & Project Specialist
+- **Abdallah Abumuala** - Business Developor
+- **Majid Dasuqi** - UX/UI designer
 
 
 ## Acknowledgements
