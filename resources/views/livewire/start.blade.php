@@ -73,7 +73,7 @@
                     <div class="form-group">
                         <label for="problem_place">Problem Place</label>
                         <select name="problem_place" id="problem_place" class="form-control">
-                            <option value="">Select Type of Leak</option>
+                            <option value="">Select Problem Place</option>
                             <option value="Front Wall">Front Wall</option>
                             <option value="Left Wall">Left Wall</option>
                             <option value="Right Wall">Right Wall</option>
@@ -88,7 +88,7 @@
                     <div class="form-group">
                         <label for="problem_type">Problem Type</label>
                         <select name="problem_type" id="problem_type" class="form-control">
-                            <option value="">Select Type of Leak</option>
+                            <option value="">Select Problem Type</option>
                             <option value="Minor Crack">Minor Crack</option>
                             <option value="Minor Crack With Water Leak">Minor Crack With Water Leak</option>
                             <option value="Major Crack">Major Crack</option>

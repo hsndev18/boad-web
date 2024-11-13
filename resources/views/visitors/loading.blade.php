@@ -36,7 +36,7 @@
                             <div class="loader-circle"></div>
                         </div>
                         <div class="signup-box-bottom">
-                            <livewire:visitors.video.loading :videoId="$videoId"/>
+                            <livewire:loading :problem="$problem"/>
                         </div>
                     </div>
                 </div>

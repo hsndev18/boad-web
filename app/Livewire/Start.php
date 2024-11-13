@@ -50,7 +50,9 @@ class Start extends Component
             'file_path' => $filePath, // Save the file path in the database
         ]);
 
-    
+
         SendDataViaAPIJob::dispatch($problem, $this->room, $this->problem_place, $this->problem_type, $this->type_of_leak, $this->description);
+
+        return redirect()->route('loading', $problem);
     }
 }
