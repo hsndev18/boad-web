@@ -8,7 +8,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/hsndev18/boad-web)
 
 
-Welcome to the GitHub repository of **SANA TEAM**, crafted for the **ALLAM** hackathon.
+Welcome to the GitHub repository of **BOAD TEAM**, crafted for the **ROSHEN** hackathon.
 
 ## Installation
 
@@ -22,6 +22,11 @@ Follow these steps to set up the API:
 
 Ensure you have Python installed on your machine. The project uses various Python packages, which can be installed via pip:
 
+
+```bash
+git clone https://github.com/hsndev18/boad-api.git
+```
+    
 ```bash
 conda create -n boad python=3.8
 ```
